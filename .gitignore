@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+#Google Credential
+.cred_file.json
+cred_file.json
+
 
 # C extensions
 *.so
